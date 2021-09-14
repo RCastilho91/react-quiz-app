@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RCastilho91/react-quiz-app/issues"
   },
-  "homepage": "https://github.com/RCastilho91/react-quiz-app#readme"
+  "homepage": "https://github.com/RCastilho91/react-quiz-app#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  }
 }
